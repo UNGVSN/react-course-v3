@@ -167,7 +167,7 @@ html {
 }
 .section {
   /* navbar height */
-  scroll-margin-top: 4rem;
+: 4rem;
 }
 ```
 
